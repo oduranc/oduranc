@@ -41,9 +41,9 @@ I'm a Web and Desktop Developer looking for new opportunities!
 
 <img align="left" alt="NPM" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
 
-<img align="left" alt="Express" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg#gh-light-mode-only" />
+<img align="left" alt="Express" width="26px" src="express-lightmode.svg#gh-light-mode-only" />
 
-<img align="left" alt="Express" width="26px" src="https://icongr.am/devicon/express-original.svg?color=ffffff#gh-dark-mode-only" />
+<img align="left" alt="Express" width="26px" src="express-darkmode.svg#gh-dark-mode-only" />
 
 <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 
