@@ -11,4 +11,4 @@ I'm a Web and Desktop Developer looking for new opportunities!
 
 ## Languages and Tools:
 
-sql
+[<img align="left" alt="C Sharp" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />][webdevplaylist]
