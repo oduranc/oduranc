@@ -9,6 +9,8 @@ I'm a Web and Desktop Developer looking for new opportunities!
 - 🖥️ Currently improving my skills in C# and Node.JS.
 - 👾 Learning about Game Development in Unreal Engine 4 and Unity.
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oduranc&theme=dracula)
+
 ## Languages and Tools:
 
 <img align="left" alt="Dot Net" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" />
