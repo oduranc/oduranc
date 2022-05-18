@@ -10,6 +10,7 @@ I'm a Web and Desktop Developer looking for new opportunities!
 - 👾 Learning about Game Development in Unreal Engine 4 and Unity.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oduranc&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oduranc)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Languages and Tools:
 
